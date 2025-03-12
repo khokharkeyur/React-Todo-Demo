@@ -8,7 +8,7 @@
 
 How to Run the Project
 
-1️⃣ Clone the Repository
+1 Clone the Repository
 
 Open your terminal and run:
 
@@ -16,12 +16,12 @@ git clone https://github.com/khokharkeyur/React-Todo-Demo
 
 OR Download the ZIP file and extract it.
 
-3️⃣ Install Dependencies
+2 Install Dependencies
 
 npm install
 
-4️⃣ Start the Development Server
+4 Start the Development Server
 
 npm run dev
 
-Your app will now be running at:🔗 http://localhost:5173/ (default Vite port)
+Your app will now be running at: http://localhost:5173/ (default Vite port)
